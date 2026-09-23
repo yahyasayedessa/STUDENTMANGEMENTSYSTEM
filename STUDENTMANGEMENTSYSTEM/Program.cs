@@ -14,6 +14,17 @@ namespace STUDENTMANGEMENTSYSTEM
             while (running)
             {
                 Console.WriteLine("\n=== STUDENTMANGEMENTSYSTEM ===");
+                Console.WriteLine("\n=== ssssssssssssssssss ===");
+                Console.WriteLine("\n=== xfcgcfxdszdxf ===");
+                Console.WriteLine("\n=== zdxfcgcfd ===");
+                Console.WriteLine("\n=== xfcgszdxfcgfxdzx ===");
+                Console.WriteLine("\n=== zxfxdzxfzsdfxf ===");
+                Console.WriteLine("\n=== STUDENTMANGEMENTSYSTEM ===");
+                Console.WriteLine("\n=== vcxdfcgvhbjdx ===");
+                Console.WriteLine("\n=== STUDENTMANGEMENTSYSTEM ===");
+                Console.WriteLine("\n=== STUDENTMANGEMENTSYSTEM ===");
+
+                Console.WriteLine("\n=== STUDENTMANGEMENTSYSTEM ===");
                 Console.WriteLine("1. Add new student ");
                 Console.WriteLine("2. Show all student");
                 Console.WriteLine("3. Search student");
