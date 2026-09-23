@@ -26,7 +26,16 @@ namespace STUDENTMANGEMENTSYSTEM
 
                 Console.WriteLine("\n=== STUDENTMANGEMENTSYSTEM ===");
                 Console.WriteLine("1. Add new student ");
+               
                 Console.WriteLine("2. Show all student");
+                 Console.WriteLine("2. Show all student");
+                  
+                  Console.WriteLine("2. Show all student");
+                  Console.WriteLine("2. Show all student");
+                  Console.WriteLine("2. Show all student");
+                  Console.WriteLine("2. Show all student");
+                  Console.WriteLine("2. Show all student");
+                  Console.WriteLine("2. Show all student");
                 Console.WriteLine("3. Search student");
                 Console.WriteLine("4. Ubdate student");
                 Console.WriteLine("5. Remove student");
